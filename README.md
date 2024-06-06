@@ -4,7 +4,7 @@ Este repositório contém resumos e materiais relacionados ao programa Santander
 
 ## Sobre o Programa
 
-O Santander Coders é um programa de capacitação em tecnologia oferecido pelo Banco Santander em parceria com a Ada Tech. Destinado a promover a formação de novos talentos na área de tecnologia, o programa oferece cursos de programação.
+O Santander Coders é um programa de capacitação em tecnologia oferecido pelo Banco Santander em parceria com a Ada Tech. Destinado a promover a formação de novos talentos na área de tecnologia.
 
 ## Objetivo
 
