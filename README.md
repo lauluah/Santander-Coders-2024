@@ -2,6 +2,18 @@
 
 Este repositório contém resumos e materiais relacionados ao programa Santander Coders, trilha BackEnd. <br>
 <br><img src="/image/trilhaDigital.png" width= 500 heigth=400 >
+
+ O curso contém 9 módulos:
+- GIT e Versionamento
+- Redes e Sistemas
+- Introdução ao Java
+- Programação Orientada a Objetos Básica em Java
+- Banco de Dados
+- Introdução à Estrutura de Dados
+- Introdução a Algoritmos
+- Design Patterns em Java
+
+
 ## Sobre o Programa
 O Santander Coders é um programa de capacitação em tecnologia oferecido pelo Banco Santander em parceria com a Ada Tech. Destinado a promover a formação de novos talentos na área de tecnologia.
 
