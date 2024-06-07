@@ -1,7 +1,7 @@
 # Santander Coders 2024
 
-Este repositório contém resumos e materiais relacionados ao programa Santander Coders, trilha BackEnd.
-
+Este repositório contém resumos e materiais relacionados ao programa Santander Coders, trilha BackEnd. <br>
+<br><img src="/image/trilhaDigital.png" width= 500 heigth=400 >
 ## Sobre o Programa
 O Santander Coders é um programa de capacitação em tecnologia oferecido pelo Banco Santander em parceria com a Ada Tech. Destinado a promover a formação de novos talentos na área de tecnologia.
 
